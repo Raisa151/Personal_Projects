@@ -1,0 +1,29 @@
+Analyze:
+
+1. View the first and last 5 columns
+2. View sample columns
+3. Check information of the data
+4. View qualitative measures of the data
+5. Find null values
+6. Find unique values
+7. Check outliers through boxplot
+8. Find correlation through heat-map
+9. Check Label imbalance
+
+Fix:
+
+1. Imputing the data
+2. Fix undesired characters
+3. Fix the datatype (which is changed after imputing)
+4. Remove outliers
+5. Encode the data
+6. Find correlation and drop data if needed
+7. Separate data and label
+8. Oversample the data (to fix label imbalance)
+9. Scaling
+
+
+For fitting to a model:
+
+1. PCA
+2. Train test split
