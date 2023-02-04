@@ -1,5 +1,5 @@
 Detail:
-Kidney disease prediction using neural network. This is a classification problem as well. 
+Kidney Disease Prediction using Neural Network. This is a classification problem as well. 
 
 Dataset:
 The data type is numerical. The dataset is collected from kaggle. The link is given below.
